@@ -18,10 +18,10 @@ A Python-based CLI tool to search PubMed for scientific publications, fetch deta
 
 ## 🛠️ Project Structure
 
-aganitha_papers/
-├── fetcher.py   # Handles PubMed API requests, XML parsing, and pharma detection
-├── utils.py     # Utility for saving data to CSV
-├── cli.py       # Typer-based CLI for interacting with the tool
+- aganitha_papers:
+  - fetcher.py   # Handles PubMed API requests, XML parsing, and pharma detection
+  - utils.py     # Utility for saving data to CSV
+  - cli.py       # Typer-based CLI for interacting with the tool
 
 
 
